@@ -2,7 +2,7 @@ package EasyChallenges.Challenge286;
 
 /**
  * @author Patrick Lin
- * Instructions found here: https://www.reddit.com/r/dailyprogrammer/comments/3h9pde/20150817_challenge_228_easy_letters_in/
+ * Instructions found here: https://www.reddit.com/r/dailyprogrammer/comments/55nior/20161003_challenge_286_easy_reverse_factorial/
  * */
 public class ReverseFactorial
 {
